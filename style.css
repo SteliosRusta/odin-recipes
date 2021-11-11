@@ -1,0 +1,29 @@
+* {
+    font-family: "Times New Roman", sans-serif
+}
+h1,
+h3 {
+    background-color: rgba(240, 120, 0, 0.911);
+    color: white;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.small {
+    font-size: 18px;
+    
+}
+
+a {
+    font-size: 24px;
+    font-weight: bold;
+    color: blue;
+}#ingredients {
+    background-color: coral;
+    color:cornsilk;
+    padding: 0;
+}
